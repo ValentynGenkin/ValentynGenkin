@@ -4,6 +4,5 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynGenkin&layout=compact&theme=dark)](https://github.com/ValentynGenkin)
 
-![Project1](https://github-readme-stats.vercel.app/api/pin/?username=ValentynGenkin&repo=react-project&theme=dark)
 
 
